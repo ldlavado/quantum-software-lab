@@ -4,10 +4,6 @@ Educational laboratory for **Software Engineering specialization** students.
 
 Explore quantum gates, measurement, entanglement, and a simplified Grover search using **100% local simulation** (Qiskit + Aer). No IBM account, tokens, or real quantum hardware required.
 
-**Audience**: Specialization students with intermediate Python and introductory quantum computing knowledge.  
-**Activity**: Individual work after a 45–60 minute conceptual exposition.  
-**Estimated time**: 30–40 minutes.
-
 ## Learning Objectives
 
 - Understand that a measurement does not return all possibilities of a superposition.
