@@ -1,7 +1,5 @@
 # Quantum Software Lab
 
-Educational laboratory for **Software Engineering specialization** students.
-
 Explore quantum gates, measurement, entanglement, and a simplified Grover search using **100% local simulation** (Qiskit + Aer). No IBM account, tokens, or real quantum hardware required.
 
 ## Learning Objectives
